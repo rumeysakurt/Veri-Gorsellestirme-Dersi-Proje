@@ -277,6 +277,9 @@ PieDonut(b4, aes(BesteYapmaDurumu, OCD, count=a), title = "Beste Yapmanın Obses
 ```      
 ![12](https://user-images.githubusercontent.com/91891099/210837200-9a08f76b-5c8e-40e4-8c62-4298f2f049b6.png)
 
+#### Sonuç
+Bu kısımda elde edilen sonuçlara göre, insanların %82’si beste yaparken %18’i beste yapmamaktadır. Beste yapmayan insanların büyük bir çoğunluğunun anksiyete ve depresyon seviyeleri 7-8 civarındayken; uykusuzluk ve OKB seviyeleri ise 0-2 civarındadır. Beste yapan insanların büyük bir çoğunluğunun anksiyete ve depresyon seviyeleri 7-8 civarındayken, uykusuzluk ve OKB seviyeleri 0 ‘dır. Diğer bir deyişle, beste yapmanın mental hastalıklar üzerinde kesin bir etkisi yoktur. Bu seviyeler kişiden kişiye göre değişiklik göstermektedir.
+
 ## Günde Dinlenilen Müzik Süresinin(Saat) Mental Hastalıklara Etkisi
 Günde dinlenilen müzik süresinin mental haslatıklara(Anksiyete,Depresyon,Uykusuzluk Hastalığı,Obsesif Kompulsif Bozukluk) etkisi Sacılım Grafigi Dikdörtgen Gruplama ile görselleştirilmiştir.
 
