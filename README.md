@@ -329,7 +329,8 @@ ggplot(yeniveriseti, aes(Depression, `Hours per day`)) +
   ```
  <img width="960" alt="16" src="https://user-images.githubusercontent.com/91891099/210851382-e8c6ace3-079f-4b34-acd9-529b2ab77c24.png">
 
-
+#### Sonuç
+Bu kısımda elde edilen sonuçlara göre, günde dinlenen müzik süreleri ve mental hastalık seviyeleri arasında bir ilişki gözlemlenmemiştir. Örneğin hastalık seviyesi 0 olan kişilerin bir çoğu günde 0 saat müzik dinlerken diğer bir kısmı 24 saat müzik dinlemektedir. Bu durum dört mental hastalık için de geçerlidir.
 
 
 
