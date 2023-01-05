@@ -160,6 +160,10 @@ ggplot(t2, aes(fill = `Fav genre`,
 ```
 ![4](https://user-images.githubusercontent.com/91891099/210836667-db107f72-8cec-4707-a3af-ab6a0dd58145.png)
 
+#### Sonuç
+Bu kısımda elde edilen sonuçlara göre; dört mental hastalığı ele aldığımızda “pop ve rock” müzik türü diğer müzik türlerine göre en yüksek orana sahiptir. Aynı şekilde “latin ve gospel” müzik türü diğer müzik türlerine göre en düşük orana sahiptir. Diğer bir ifadeyle; “pop ve rock” müzik türünün mental hastalıkların seviyesini arttırdığını, “latin ve gospel” müzik türünün ise azalttığını söyleyebiliriz.
+
+
 ## Enstrüman Çalmanın Mental Hastalıklara Etkisi
 Enstrüman çalmanın mental haslatıklara(Anksiyete,Depresyon,Uykusuzluk Hastalığı,Obsesif Kompulsif Bozukluk) etkisi kernel yoğunluk grafiği ile görselleştirilmiştir.
 
