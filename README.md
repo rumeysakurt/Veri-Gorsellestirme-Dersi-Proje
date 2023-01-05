@@ -285,7 +285,7 @@ ggplot(yeniveriseti, aes(Anxiety, `Hours per day`)) +
        x= "Günde Dinlenen Müzik Süresi(saat)",
        fill= "Kisi Sayısı")
 ```
-![13](https://user-images.githubusercontent.com/91891099/210837248-15d1a9e6-f600-4894-936f-0ff815b8b978.png)
+<img width="960" alt="13" src="https://user-images.githubusercontent.com/91891099/210851289-90235733-efbe-41a9-8294-576de23b2ac5.png">
 
 ### Günde Dinlenilen Müzik Süresinin Depresyon ile İlişkisi
 ```
@@ -299,7 +299,7 @@ ggplot(yeniveriseti, aes(Depression, `Hours per day`)) +
        x= "Günde Dinlenen Müzik Süresi(saat)",
        fill= "Kisi Sayısı")
  ```      
- ![14](https://user-images.githubusercontent.com/91891099/210837284-7499e2e6-0165-4ff3-9c4a-11975b1cf661.png)
+ <img width="960" alt="14" src="https://user-images.githubusercontent.com/91891099/210851325-37d70ca8-b466-4319-944c-c3564f749dbe.png">
  
  ### Günde Dinlenilen Müzik Süresinin Uykusuzluk Hastalığı ile İlişkisi
  ```
@@ -313,7 +313,7 @@ ggplot(yeniveriseti, aes(Depression, `Hours per day`)) +
        x= "Günde Dinlenen Müzik Süresi(saat)",
        fill= "Kisi Sayısı")
  ```      
- ![15](https://user-images.githubusercontent.com/91891099/210837325-581c0e0f-5afe-4d2c-b5a6-4db8955a6cc2.png)
+ <img width="960" alt="15" src="https://user-images.githubusercontent.com/91891099/210851356-ec41d071-ee1b-4a7b-b380-898565e1aea4.png">
  
  ### Günde Dinlenilen Müzik Süresinin Obsesif Kompulsif Bozukluk ile İlişkisi
  ```
@@ -327,7 +327,8 @@ ggplot(yeniveriseti, aes(Depression, `Hours per day`)) +
        x= "Günde Dinlenen Müzik Süresi(saat)",
        fill= "Kisi Sayısı")
   ```
-  ![16](https://user-images.githubusercontent.com/91891099/210837376-2fa4c068-e90d-46ea-981c-eae859ea7d41.png)
+ <img width="960" alt="16" src="https://user-images.githubusercontent.com/91891099/210851382-e8c6ace3-079f-4b34-acd9-529b2ab77c24.png">
+
 
 
 
